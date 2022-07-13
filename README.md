@@ -13,7 +13,7 @@ part of the publication cited above. It will neither be maintained nor monitored
 
 ## Reproduce the Results
 
-This repo contains the code of experiments with LOE on various data types including image data and tabular data. The implementation of the backbone anomaly detection model is based on the code from https://github.com/boschresearch/NeuTraL-AD.
+This repo contains the code of experiments with LOE on various data types including image data and tabular data. The implementation of the backbone anomaly detection model (Neural Transformation Learning) is based on the code from https://github.com/boschresearch/NeuTraL-AD.
 
 Please run the command and replace \$# with available options (see below): 
 
